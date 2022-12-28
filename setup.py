@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="streamlit-authenticator-pill",
+    name="streamlit-authenticatorpill",
     version="0.2.1",
     author="Shao Duan",
     author_email="shaoxiongduan@gmail.com",
